@@ -134,4 +134,6 @@ dmypy.json
 #Pycharm
 .idea
 
+data/credentials/credentials.py
+
 
