@@ -127,11 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+^X
 
-#iOS
-.DS_Store
-
-#Pycharm
-.idea
-
+X
 
