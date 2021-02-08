@@ -1,0 +1,41 @@
+uuid,country_code,country,rural,title,quantity,percentage
+ed7e4bd0-d987-0133-3f9e-0a81e8b09a82,BE,Belgium,rural,Health Data Analyst,13.0,0.003684%
+92c27100-d9d0-0133-c4db-0a81e8b09a82,BE,Belgium,countryside,Data Scientist,67.0,0.018987%
+0bace1e0-d94d-0133-54ac-0a81e8b09a82,PT,Portugal,rural,LiDAR Data Analyst,11.0,0.003117%
+709bb380-d8e2-0133-b610-0a81e8b09a82,ES,Spain,countryside,Data Miner,72.0,0.020404%
+7593f1b0-dbec-0133-33c0-0a81e8b09a82,ES,Spain,rural,Data Miner,72.0,0.020404%
+5f1b17e0-d97f-0133-f63f-0a81e8b09a82,CZ,Czechia,rural,Data Scientist,67.0,0.018987%
+58c018c0-dbdd-0133-4934-0a81e8b09a82,FR,France,rural,Data Scientist,67.0,0.018987%
+ccf1b0b0-d97d-0133-0d84-0a81e8b09a82,FR,France,rural,Data Miner,72.0,0.020404%
+5c6cb9b0-dbae-0133-3d2c-0a81e8b09a82,FR,France,rural,Medical Data Analyst,13.0,0.003684%
+c6e957c0-db9a-0133-a95b-0a81e8b09a82,FR,France,rural,Data Miner,72.0,0.020404%
+0c4b14d0-db23-0133-15a6-0a81e8b09a82,FR,France,rural,Maintenance Data Analyst,9.0,0.00255%
+095d7c70-da73-0133-f27b-0a81e8b09a82,FR,France,countryside,Data Scientist,67.0,0.018987%
+5da8b1c0-da46-0133-0b33-0a81e8b09a82,FR,France,rural,Data Miner,72.0,0.020404%
+0f6aaa30-da8f-0133-cf54-0a81e8b09a82,FR,France,rural,Data Miner,72.0,0.020404%
+0bbcf460-d8d7-0133-1bb3-0a81e8b09a82,FR,France,rural,Data Miner,72.0,0.020404%
+a1829b40-d932-0133-405f-0a81e8b09a82,HU,Hungary,rural,Data Miner,72.0,0.020404%
+77bcdb40-dad3-0133-40a8-0a81e8b09a82,HU,Hungary,rural,Data Miner,72.0,0.020404%
+193c5570-da5a-0133-d7e0-0a81e8b09a82,HU,Hungary,rural,Data Miner,72.0,0.020404%
+e93c2eb0-db3f-0133-ef8c-0a81e8b09a82,HU,Hungary,countryside,Data Miner,72.0,0.020404%
+8467dbb0-dafe-0133-609b-0a81e8b09a82,DE,Germany,countryside,Data Miner,72.0,0.020404%
+0cdaa270-da06-0133-0913-0a81e8b09a82,DE,Germany,countryside,Data Miner,72.0,0.020404%
+50588d40-dd28-0133-6a98-0a81e8b09a82,DE,Germany,rural,Data Scientist,67.0,0.018987%
+00ee63e0-dcae-0133-f03d-0a81e8b09a82,DE,Germany,rural,Maintenance Data Analyst,9.0,0.00255%
+057e1a10-ddfd-0133-c830-0a81e8b09a82,DE,Germany,rural,Data Miner,72.0,0.020404%
+2d8ccc10-db17-0133-e957-0a81e8b09a82,DE,Germany,rural,Data Scientist,67.0,0.018987%
+25865d60-df19-0133-3655-0a81e8b09a82,DE,Germany,rural,Data Scientist,67.0,0.018987%
+4e466900-da79-0133-83e2-0a81e8b09a82,DE,Germany,countryside,Clinical Data Analyst,9.0,0.00255%
+40161860-d978-0133-0db5-0a81e8b09a82,DE,Germany,rural,Data Miner,72.0,0.020404%
+ce5f6cc0-d990-0133-5c94-0a81e8b09a82,DE,Germany,rural,Data Scientist,67.0,0.018987%
+b46c7c10-dcde-0133-66fc-0a81e8b09a82,DE,Germany,countryside,Data Miner,72.0,0.020404%
+f5e67ee0-dae4-0133-3957-0a81e8b09a82,DE,Germany,rural,Data Scientist,67.0,0.018987%
+9d05e1c0-ddf5-0133-22eb-0a81e8b09a82,DE,Germany,rural,Data Miner,72.0,0.020404%
+89ba9600-da3a-0133-dce1-0a81e8b09a82,DE,Germany,rural,Data Miner,72.0,0.020404%
+5f8e8e50-da88-0133-ebae-0a81e8b09a82,DE,Germany,countryside,Data Scientist,67.0,0.018987%
+064f6ed0-de45-0133-5f42-0a81e8b09a82,DE,Germany,rural,Medical Data Analyst,13.0,0.003684%
+3772e4a0-da29-0133-76e2-0a81e8b09a82,IT,Italy,rural,Clinical Data Analyst,9.0,0.00255%
+df00a510-da46-0133-0ef2-0a81e8b09a82,NL,Netherlands,rural,Data Analyst,8.0,0.002267%
+5be86840-da2b-0133-464d-0a81e8b09a82,IE,Ireland,countryside,Data Miner,72.0,0.020404%
+22b05950-da5f-0133-37d5-0a81e8b09a82,PL,Poland,countryside,Data Scientist,67.0,0.018987%
+a7d665b0-def0-0133-a8ef-0a81e8b09a82,PL,Poland,rural,Medical Data Analyst,13.0,0.003684%
